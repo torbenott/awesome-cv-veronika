@@ -1,3 +1,6 @@
+# awesome-cv-veronika
+This is a strongly modified version of the awesome-cv template from https://github.com/posquit0/Awesome-CV. Adapted for one-page singer/dancer resume in a 8x10 inch layout.
+
 # Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
 
@@ -60,4 +63,4 @@ You are free to take my `.tex` file and modify it to create your own resume. Ple
 If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
 
 Good luck!
-# awesome-cv-veronika
+
