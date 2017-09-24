@@ -108,9 +108,11 @@
 %-------------------------------------------------------------------------------
 %% Page Layout
 % Configure page margins with geometry
-%distances adjusted to have 1 inch at bottom at 1/2 inch at right side
-% for 10x8inch resume (columns for \cventratab adjusted)
-\geometry{left=2.0cm, top=1.5cm, right=3.27cm, bottom=4.54cm, footskip=.5cm}
+% for 10x8inch resume (columns for \cventrytab adjusted)
+%10inch = 254mm
+% 8inch = 203.2mm
+% letter = 216 x 279.4 mm
+\geometry{left=1.5cm, top=1cm, right=2.77cm, bottom=5.04cm, footskip=.5cm}
 
 %% Header & Footer
 % Set offset to each header and offset
@@ -514,7 +516,7 @@
 % Define a section for CV
 % Usage: \cvsection{<section-title>}
 \newcommand{\cvsection}[1]{
-  \par\addvspace{1.5ex}
+  \par\addvspace{1ex}
   \phantomsection{}
   \sectionstyle{#1}
   \color{gray}\vhrulefill{0.9pt}
