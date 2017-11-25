@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.9.24)  24 SEP 2017 14:50
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.11.25)  25 NOV 2017 01:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -817,17 +817,17 @@ lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
 ut line 7.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 22.
+(Font)              scaled to size 8.00012pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 22.
+(Font)              scaled to size 6.00009pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 22.
+(Font)              scaled to size 5.00008pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 22.
+(Font)              scaled to size 7.99988pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 22.
+(Font)              scaled to size 5.99991pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 22.
+(Font)              scaled to size 4.99992pt on input line 27.
 ) (./resume/education.tex) (./resume/skills.tex
 Overfull \hbox (9.27618pt too wide) in alignment at lines 2--15
 [] [] 
@@ -845,8 +845,8 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
  27880 strings out of 493638
- 481855 string characters out of 6146796
- 599220 words of memory out of 5000000
+ 481855 string characters out of 6146795
+ 599223 words of memory out of 5000000
  31002 multiletter control sequences out of 15000+600000
  7780 words of font info for 84 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191

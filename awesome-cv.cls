@@ -555,7 +555,7 @@
 \newcommand*{\cventrytab}[4]{
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
-  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{5.75cm} L{5.75cm} R{4.5cm}}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{5.00cm} L{5.75cm} R{5.25cm}}
       \ifempty{#4}
         {\entrytitlestyle{#2} & \entrypositionstyle{#1} & \entrylocationstyle{#3} \\}
         {\entrytitlestyle{#2} & \entrypositionstyle{#1} & \entrylocationstyle{#3} \\
@@ -568,7 +568,7 @@
 \newcommand*{\cventrytabb}[4]{
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
-  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{5.75cm} L{5.75cm} R{4.5cm}}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{5.00cm} L{5.75cm} R{5.25cm}}
       \ifempty{#4}
         {\entrytitlestyle{#2} & \entrypositionstyle{#1} & \entrylocationstyle{#3} \\}
 	{\entrytitlestyle{#2} \entryupcomingstyle{#4} & \entrypositionstyle{#1} & \entrylocationstyle{#3} \\}
