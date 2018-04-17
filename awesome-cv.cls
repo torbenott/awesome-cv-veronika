@@ -112,7 +112,7 @@
 %10inch = 254mm
 % 8inch = 203.2mm
 % letter = 216 x 279.4 mm
-\geometry{left=1.5cm, top=1cm, right=2.77cm, bottom=5.04cm, footskip=.5cm}
+\geometry{left=1cm, top=1cm, right=2.27cm, bottom=5.04cm, footskip=.5cm}
 
 %% Header & Footer
 % Set offset to each header and offset
@@ -555,7 +555,7 @@
 \newcommand*{\cventrytab}[4]{
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
-  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{5.00cm} L{5.75cm} R{5.25cm}}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{5.50cm} L{5.75cm} R{5.25cm}}
       \ifempty{#4}
         {\entrytitlestyle{#2} & \entrypositionstyle{#1} & \entrylocationstyle{#3} \\}
         {\entrytitlestyle{#2} & \entrypositionstyle{#1} & \entrylocationstyle{#3} \\
@@ -568,7 +568,7 @@
 \newcommand*{\cventrytabb}[4]{
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
-  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{5.00cm} L{5.75cm} R{5.25cm}}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{5.50cm} L{5.75cm} R{5.25cm}}
       \ifempty{#4}
         {\entrytitlestyle{#2} & \entrypositionstyle{#1} & \entrylocationstyle{#3} \\}
 	{\entrytitlestyle{#2} \entryupcomingstyle{#4} & \entrypositionstyle{#1} & \entrylocationstyle{#3} \\}

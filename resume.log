@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.11.25)  25 NOV 2017 01:18
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.11.25)  16 APR 2018 23:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -716,14 +716,14 @@ LaTeX Info: Redefining \selectfont on input line 80.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(42.67912pt, 492.80162pt, 78.81425pt)
+* h-part:(L,W,R)=(28.45274pt, 521.25438pt, 64.58788pt)
 * v-part:(T,H,B)=(28.45274pt, 623.11555pt, 143.40169pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=492.80162pt
+* \textwidth=521.25438pt
 * \textheight=623.11555pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
 * \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -806,34 +806,25 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 8.41469pt on input line 2.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.97679pt on input line 2.
-
-Overfull \hbox (8.19618pt too wide) in alignment at lines 2--12
-[] [] 
- []
-
 ) (./resume/experience.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
 ut line 7.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 27.
+(Font)              scaled to size 8.00012pt on input line 47.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 27.
+(Font)              scaled to size 6.00009pt on input line 47.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 27.
+(Font)              scaled to size 5.00008pt on input line 47.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 27.
+(Font)              scaled to size 7.99988pt on input line 47.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 27.
+(Font)              scaled to size 5.99991pt on input line 47.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 27.
-) (./resume/education.tex) (./resume/skills.tex
-Overfull \hbox (9.27618pt too wide) in alignment at lines 2--15
-[] [] 
- []
-
+(Font)              scaled to size 4.99992pt on input line 47.
 )
+(./resume/education.tex) (./resume/skills.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
  [1
 
@@ -846,7 +837,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 93.
 Here is how much of TeX's memory you used:
  27880 strings out of 493638
  481855 string characters out of 6146795
- 599223 words of memory out of 5000000
+ 600217 words of memory out of 5000000
  31002 multiletter control sequences out of 15000+600000
  7780 words of font info for 84 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
