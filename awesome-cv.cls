@@ -112,7 +112,7 @@
 %10inch = 254mm
 % 8inch = 203.2mm
 % letter = 216 x 279.4 mm
-\geometry{left=1cm, top=1cm, right=2.27cm, bottom=5.04cm, footskip=.5cm}
+\geometry{left=2.2cm, top=2cm, right=2.2cm, bottom=2cm, footskip=.5cm}
 
 %% Header & Footer
 % Set offset to each header and offset
